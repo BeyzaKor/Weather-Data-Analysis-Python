@@ -1,4 +1,4 @@
-🌦️ Weather Data Analysis – Midterm Assignment
+🌦️ Weather Data Analysis 
 
 **Author:** Beyza Kordan  
 **Program:** MSc in Economics and Data Analytics, University College Dublin  
