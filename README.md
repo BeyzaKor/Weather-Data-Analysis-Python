@@ -2,7 +2,6 @@
 
 **Author:** Beyza Kordan  
 **Program:** MSc in Economics and Data Analytics, University College Dublin  
-**Student ID:** 23205963  
 **Date:** 29 October 2024
 
 ---
